@@ -3,7 +3,7 @@ import Contenido from './components/Contenido'
 
 function App() {
   return (
-    <Contenido profesor="Luis" materia="Programacion"/>
+    <Contenido profesor="Luis" materia="Redes"/>
   )
 }
 
