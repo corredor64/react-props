@@ -1,9 +1,10 @@
 import React from 'react'
 import Contenido from './components/Contenido'
+//Este es el componente padre
 
 function App() {
   return (
-    <Contenido profesor="Luis" materia="Redes"/>
+    <Contenido profesor="Fabian" materia="Base de datos"/>
   )
 }
 
